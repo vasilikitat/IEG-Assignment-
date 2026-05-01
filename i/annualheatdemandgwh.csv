@@ -1,0 +1,5 @@
+DATAFLOW,LAST UPDATE,freq,nrg_bal,siec,unit,geo,TIME_PERIOD,OBS_VALUE,OBS_FLAG,CONF_STATUS
+ESTAT:NRG_BAL_C(1.0),20/04/26 23:00:00,Annual,Final consumption - other sectors - households - energy use,Heat,Gigawatt-hour,Denmark,2024,19530.802,,
+ESTAT:NRG_BAL_C(1.0),20/04/26 23:00:00,Annual,Final consumption - other sectors - households - energy use,Heat,Gigawatt-hour,Finland,2024,18240.000,,
+ESTAT:NRG_BAL_C(1.0),20/04/26 23:00:00,Annual,Final consumption - other sectors - households - energy use,Heat,Gigawatt-hour,Norway,2024,1873.410,,
+ESTAT:NRG_BAL_C(1.0),20/04/26 23:00:00,Annual,Final consumption - other sectors - households - energy use,Heat,Gigawatt-hour,Sweden,2024,30436.111,,
